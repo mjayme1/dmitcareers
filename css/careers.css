@@ -28,6 +28,10 @@ h1 {
     display: inline-block;
 }
 
+.caption span a {
+    color: inherit;
+}
+
 p { 
     color: #8198ae;
 }
