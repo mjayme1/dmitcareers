@@ -14,7 +14,7 @@ body {
 .home,
 .web-dev-page,
 .software-dev-page {
-    max-width: 1290px;
+    max-width: 1310px;
     margin: 0 auto;
     font-size: 100%;
     line-height: 1.5;
@@ -38,7 +38,7 @@ header p {
 
 /* Footer */
 footer {
-    background-color: #f4f6f9;
+    background-color: #e7e7e7;
     height: 80px;
     text-align: center;
 }
