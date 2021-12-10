@@ -246,3 +246,46 @@ h1 {
     width: 17%;
     background: #1346b3;
 }
+
+
+#section-wd-10 .full-time {
+    width: 66%;
+    background: #ff7846;
+}
+
+#section-wd-10 .part-time {
+    width: 34%;
+    background: #499df7;
+}
+
+
+#section-wd-10 .male {
+    width: 55%;
+    background: #ff7846;
+}
+
+#section-wd-10 .female {
+    width: 25%;
+    background: #499df7;
+}
+
+#section-wd-10 .unknown {
+    width: 20%;
+    background: #ff7846;
+}
+
+
+#section-wd-10 .twenty {
+    width: 29%;
+    background: #ff7846;
+}
+
+#section-wd-10 .thirty {
+    width: 40%;
+    background: #499df7;
+}
+
+#section-wd-10 .fourty {
+    width: 32%;
+    background: #ff7846;
+}
