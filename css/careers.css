@@ -97,7 +97,8 @@ h1 {
 }
 
 
-.section-2 p { 
+.section-2 p,
+.section-2 li ul li { 
     color: #4d5862;
 }
 
@@ -213,9 +214,10 @@ h1 {
 .thirty,
 .fourty {
     color: white !important;
-    padding: 3px 16px;
+    padding: 6px 16px;
     margin-bottom: 0;
     height: 30px;
+    font-size: 13px;
 }
 
 #section-seo-10 .male {
@@ -228,25 +230,53 @@ h1 {
     background: #499df7;
 }
 
-#section-qaa-10 .male,
-#section-qaa-10 .twenty {
-    width: 58%;
+
+/* qaa */
+
+#section-qaa-10 .full-time {
+    width: 70%;
     background: #ff7846;
 }
 
-#section-qaa-10 .female,
+#section-qaa-10 .part-time {
+    width: 30%;
+    background: #499df7;
+}
+
+
+#section-qaa-10 .male {
+    width: 60%;
+    background: #ff7846;
+}
+
+#section-qaa-10 .female {
+    width: 25%;
+    background: #499df7;
+}
+
+#section-qaa-10 .unknown {
+    width: 15%;
+    background: #ff7846;
+}
+
+
+#section-qaa-10 .twenty {
+    width: 55%;
+    background: #ff7846;
+}
+
 #section-qaa-10 .thirty {
     width: 25%;
     background: #499df7;
 }
 
-
-#section-qaa-10 .unknown,
 #section-qaa-10 .fourty {
-    width: 17%;
-    background: #1346b3;
+    width: 20%;
+    background: #ff7846;
 }
 
+
+/* web development */
 
 #section-wd-10 .full-time {
     width: 66%;
@@ -287,5 +317,143 @@ h1 {
 
 #section-wd-10 .fourty {
     width: 32%;
+    background: #ff7846;
+}
+
+
+/* web design */
+
+#section-wdesign-10 .full-time {
+    width: 42%;
+    background: #ff7846;
+}
+
+#section-wdesign-10 .part-time {
+    width: 58%;
+    background: #499df7;
+}
+
+
+#section-wdesign-10 .male {
+    width: 71%;
+    background: #ff7846;
+}
+
+#section-wdesign-10 .female {
+    width: 29%;
+    background: #499df7;
+}
+
+#section-wdesign-10 .unknown {
+    width: 20%;
+    background: #ff7846;
+}
+
+
+#section-wdesign-10 .twenty {
+    width: 27%;
+    background: #ff7846;
+}
+
+#section-wdesign-10 .thirty {
+    width: 33%;
+    background: #499df7;
+}
+
+#section-wdesign-10 .fourty {
+    width: 40%;
+    background: #ff7846;
+}
+
+
+/* ios */
+
+
+#section-ios-10 .full-time {
+    width: 66%;
+    background: #ff7846;
+}
+
+#section-ios-10 .part-time {
+    width: 34%;
+    background: #499df7;
+}
+
+
+#section-ios-10 .male {
+    width: 65%;
+    background: #ff7846;
+}
+
+#section-ios-10 .female {
+    width: 20%;
+    background: #499df7;
+}
+
+#section-ios-10 .unknown {
+    width: 15%;
+    background: #ff7846;
+}
+
+
+#section-ios-10 .twenty {
+    width: 18%;
+    background: #ff7846;
+}
+
+#section-ios-10 .thirty {
+    width: 37%;
+    background: #499df7;
+}
+
+#section-ios-10 .fourty {
+    width: 46%;
+    background: #ff7846;
+}
+
+
+
+/* sa */
+
+
+#section-sa-10 .full-time {
+    width: 80%;
+    background: #ff7846;
+}
+
+#section-sa-10 .part-time {
+    width: 20%;
+    background: #499df7;
+}
+
+
+#section-sa-10 .male {
+    width: 60%;
+    background: #ff7846;
+}
+
+#section-sa-10 .female {
+    width: 25%;
+    background: #499df7;
+}
+
+#section-sa-10 .unknown {
+    width: 15%;
+    background: #ff7846;
+}
+
+
+#section-sa-10 .twenty {
+    width: 16%;
+    background: #ff7846;
+}
+
+#section-sa-10 .thirty {
+    width: 29%;
+    background: #499df7;
+}
+
+#section-sa-10 .fourty {
+    width: 55%;
     background: #ff7846;
 }
